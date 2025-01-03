@@ -1,0 +1,4 @@
+Spring:
+  redis:
+    host: redis.finvedic.in
+    port: 6379

@@ -1,0 +1,5 @@
+/home/yash/FinVedic/Hackthon1_Java/reader/src/main/java/com/reader/reader/ReaderApplication.java
+/home/yash/FinVedic/Hackthon1_Java/reader/src/main/java/com/reader/reader/config/RedisConfig.java
+/home/yash/FinVedic/Hackthon1_Java/reader/src/main/java/com/reader/reader/controller/DataReaderController.java
+/home/yash/FinVedic/Hackthon1_Java/reader/src/main/java/com/reader/reader/controller/TickerRequest.java
+/home/yash/FinVedic/Hackthon1_Java/reader/src/main/java/com/reader/reader/service/DataReaderService.java
